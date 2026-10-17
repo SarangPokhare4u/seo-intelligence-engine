@@ -1,0 +1,4 @@
+{"as_of":"2026-10-17","partial":false,"entries":[
+ {"date":"2026-10-16","title":"Updating the Indexing API quota page","source":"docs_updates","class":"documentation change","status":"complete"},
+ {"date":"2026-09-24","title":"September 2026 spam update","source":"status_dashboard","class":"algorithm update","status":"complete","end_date":"2026-10-08"},
+ {"date":"2026-06-15","title":"Clarifying guidance on llms.txt files","source":"docs_updates","class":"documentation change","status":"complete"}]}

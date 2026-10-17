@@ -1,0 +1,5 @@
+https://example.com/
+https://example.com/product/
+https://example.com/blog/
+https://example.com/blog/dvir-guide/
+https://example.com/blog/orphan-post/

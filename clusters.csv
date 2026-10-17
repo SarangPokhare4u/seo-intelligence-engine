@@ -1,0 +1,5 @@
+url,cluster,role
+/blog/,inspections,pillar
+/blog/dvir-guide/,inspections,cluster
+/blog/orphan-post/,inspections,cluster
+/product/,inspections,commercial

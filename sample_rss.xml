@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Google Search Central documentation updates (FIXTURE)</title>
+    <link>https://developers.google.com/search/updates</link>
+    <item>
+      <title>Updating the Indexing API quota page</title>
+      <link>https://developers.google.com/search/updates#oct-16-2026</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Updated the quota limits and process.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deprecating the FAQ rich result feature</title>
+      <link>https://developers.google.com/search/updates#may-8-2026</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <description>Added a deprecation notice for FAQ rich results.</description>
+    </item>
+    <item>
+      <title>Introducing a new spam policy for "back button hijacking"</title>
+      <link>https://developers.google.com/search/updates#apr-13-2026</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Added a policy section on this deceptive practice.</description>
+    </item>
+    <item>
+      <title>Adding a section on smaller core updates</title>
+      <link>https://developers.google.com/search/updates#dec-9-2025</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <description>Ranking changes can happen between major core updates.</description>
+    </item>
+  </channel>
+</rss>

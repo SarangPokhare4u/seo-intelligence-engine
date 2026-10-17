@@ -1,0 +1,4 @@
+[{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[]},
+ {"@context":"https://schema.org","@type":"Product","description":"no name, no offers"},
+ {"@context":"http://example.org","@type":"Event","name":"Webinar"},
+ {"@context":"https://schema.org","name":"no type"}]

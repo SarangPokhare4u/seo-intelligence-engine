@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Atom fixture</title>
+  <entry>
+    <title>Clarifying guidance on llms.txt files</title>
+    <link href="https://developers.google.com/search/updates#jun-15-2026"/>
+    <updated>2026-06-15T00:00:00Z</updated>
+    <summary>Search doesn't use these files for ranking.</summary>
+  </entry>
+</feed>

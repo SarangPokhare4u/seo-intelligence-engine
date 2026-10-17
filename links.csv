@@ -1,0 +1,8 @@
+source,target,anchor
+/,/product/,inspection platform
+/,/blog/,blog
+/blog/,/blog/dvir-guide/,DVIR guide
+/blog/dvir-guide/,/product/,click here
+/blog/dvir-guide/,/blog/,inspection resources
+/product/,/blog/dvir-guide/,inspection resources
+/blog/dvir-guide/,/old-page/,legacy page
